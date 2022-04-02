@@ -1,4 +1,5 @@
 http.favicon.hash:-1957492928
+https://github.com/BrewPi/brewpi-www/
 
 just go to maintenance panel > reprogram controller > upload a php file instead of an HEX file > Go to /uploads/$your_filename.php
 
